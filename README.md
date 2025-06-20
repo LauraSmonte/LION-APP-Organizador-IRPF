@@ -37,7 +37,7 @@ ________________________________________
 
 👩‍💻 Autoria e Créditos:
 
-• Autora: Laurineide Monte
+• Autora: Laura Monte
 
 • Curso: Excel com Inteligência Artificial
 
